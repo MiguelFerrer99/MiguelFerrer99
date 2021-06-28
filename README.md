@@ -1,3 +1,5 @@
+![Header](https://raw.githubusercontent.com/MiguelFerrer99/MiguelFerrer99/main/header.png)
+
 # Hi, I'm Miguel 👋
 
 Passionate computer science engineer with a particular focus on Apple Platform iOS.
